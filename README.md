@@ -19,7 +19,7 @@
   
 -  Building a collection of OSINT Tools 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviesombasa&repo=100-Days-of-Code&show_owner=true)](https://github.com/daviesombasa/OSINT-Tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviesombasa&repo=OSINT-Tools&show_owner=true)](https://github.com/daviesombasa/OSINT-Tools)
 
 -  100 Days of Code Challange 
 
