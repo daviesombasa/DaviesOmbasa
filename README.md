@@ -16,5 +16,5 @@
 <img src=https://github.com/daviesombasa/DaviesOmbasa/blob/6d387522290e0a09597c1b23b603c69f7f4c526b/img/Global%20Encryption%20Day.jpeg width=50% height=50%>
 
 <div align="center">
-  <b><i>let's change the world one</i></b><br>
+  <b><i>let's change the world</i></b><br>
 </div>
