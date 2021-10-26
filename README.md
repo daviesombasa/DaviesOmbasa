@@ -9,6 +9,7 @@
   <p> Trained cybersecurity professional with one year of experience in designing secure networks, performing vulnerability
   assessments, and formulating cybersecurity policies aligned with business objectives.
   </p>
+  <p> To view my qualifications, <a href="https://github.com/daviesombasa/Resume">READ MORE</a></p>
 
 <h2>Live Sessions</h2>
   <p>Global Encryption Day - Organized by <a href="https://www.internetsociety.org/tag/kenya-chapter/">Internet Society of Kenya</a></p>
