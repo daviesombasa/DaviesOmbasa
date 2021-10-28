@@ -12,7 +12,7 @@
   <p> To view my qualifications, <a href="https://github.com/daviesombasa/Resume">READ MORE</a></p>
 
 <h2>Live Sessions</h2>
-  <p>1 .Global Encryption Day - Organized by <a href="https://www.internetsociety.org/tag/kenya-chapter/">Internet Society of Kenya</a></p>
+  <p>1. Global Encryption Day - Organized by <a href="https://www.internetsociety.org/tag/kenya-chapter/">Internet Society of Kenya</a></p>
   <img src=https://github.com/daviesombasa/DaviesOmbasa/blob/6d387522290e0a09597c1b23b603c69f7f4c526b/img/Global%20Encryption%20Day.jpeg width=50% height=50%>
 
 <h2>Blog Posts</h2>
