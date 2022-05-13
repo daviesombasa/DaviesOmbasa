@@ -20,11 +20,11 @@
     <li><a href="https://medium.com/@thefoursec/making-the-switch-to-encryption-23c0ef07ea4">Making The Switch Global Encryption Day - TheFourSec</a>/li>
     <li><a href="https://daviesombasa.medium.com/start-a-career-in-cybersecurity-e3e522ed157d">Starting a Career in Cybersecurity<a></li>
     <li><a href="https://daviesombasa.medium.com/securing-your-google-account-543ee6b88db3">Securing your Gmail Account</a></li>
-    <li><a href="https://daviesombasa.medium.com/password-management-22b1f3e3706f"><Password Management - Last Pass</a></li>
-    <li><a href="https://daviesombasa.medium.com/encrypt-your-communication-for-free-65cbbcbd88b4"></a>Encrypting you Communication</li>
-    <li><a href="https://daviesombasa.medium.com/types-of-cyber-attacks-ee040492fb48"></a>Types of Cyber Attacks</li>
+    <li><a href="https://daviesombasa.medium.com/password-management-22b1f3e3706f">Password Managemen - Last Pass</a></li>
+    <li><a href="https://daviesombasa.medium.com/encrypt-your-communication-for-free-65cbbcbd88b4">Encrypting you Communication/a></li>
+    <li><a href="https://daviesombasa.medium.com/types-of-cyber-attacks-ee040492fb48">Types of Cyber Attacks</a></li>
     <li><a href="https://daviesombasa.medium.com/osint-tools-f2ce42e7dd8">OSINT Tools</a></li>
-    <li><a href="https://daviesombasa.medium.com/security-add-ons-for-your-browser-224fd37727c2"></a>Security Add-ons for your browser</li>
+    <li><a href="https://daviesombasa.medium.com/security-add-ons-for-your-browser-224fd37727c2">Security Add-ons for your browser</a></li>
   </ol> 
 
 <h2>Currently working on</h2>
