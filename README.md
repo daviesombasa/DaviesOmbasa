@@ -17,9 +17,11 @@
 
 <h2>Blog Posts</h2>
   <p>1. <a href="https://medium.com/@thefoursec/making-the-switch-to-encryption-23c0ef07ea4">Making The Switch Global Encryption Day - TheFourSec</a></p>
-<!--   <img src=https://github.com/daviesombasa/DaviesOmbasa/blob/6d387522290e0a09597c1b23b603c69f7f4c526b/img/Global%20Encryption%20Day.jpeg width=50% height=50%>
-
- -->
+  <ol type="1">
+  <li><a href="https://medium.com/@thefoursec/making-the-switch-to-encryption-23c0ef07ea4">Making The Switch Global Encryption Day - TheFourSec</a>/li>
+  <li>Tea</li>
+  <li>Milk</li>
+  </ol> 
 
 <h2>Currently working on</h2>
   
